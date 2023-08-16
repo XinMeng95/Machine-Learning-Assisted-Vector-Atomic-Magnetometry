@@ -1,6 +1,7 @@
 # Machine-Learning-Assisted-Vector-Atomic-Magnetometry
 
-NN code for our paper Machine Learning Assisted Vector Atomic Magnetometry.
+NN code for paper:
+> Xin Meng, Youwei Zhang, Xichang Zhang, Shenchao Jin, Tingran Wang, Liang Jiang, Liantuan Xiao, Suotang Jia and Yanhong Xiao, ***Machine Learning Assisted Vector Atomic Magnetometry*** (arXiv: [2301.05707](https://arxiv.org/abs/2301.05707)).
 
 NNdata.zip contains the data for NN training.
 
